@@ -49,3 +49,6 @@ def pagina_musica(request):
 
 def pagina_autoavaliacao(request):
     return render(request, 'autoavaliacao.html')
+
+def oi():
+    pass
